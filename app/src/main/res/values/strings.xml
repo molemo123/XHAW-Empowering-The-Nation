@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Empowering the Nation</string>
+    <string name="register_below">REGISTER BELOW</string>
     <string-array name="Menu">
         <item>Summary of Six Month Courses</item>
         <item>Summary of Short Six Week Courses</item>
